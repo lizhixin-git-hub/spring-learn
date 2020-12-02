@@ -6,6 +6,7 @@ import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
 
 /**
+ * https://github.com/JHeaven/ssm-easy-demo
  * log4j2 启动时，动态设置xml配置文件的路径
  */
 public class Log4j2ConfigListener implements ServletContextListener {
